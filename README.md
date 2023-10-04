@@ -1,7 +1,3 @@
-# Tauri + React + Typescript
+# HTTP Client
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+It seems that Insomnia and Postman are kind of bullying their users nowadays, so maybe I'll create my own HTTP Client for the sake of having fun and test desktop app dev
